@@ -1,0 +1,46 @@
+OUTPUT : 
+🚂 Welcome To RailEase
+Book Your Ticket with Ease!!
+
+Railway Ticket Booking System
+1️⃣ Book a ticket
+2️⃣ Show all booked tickets
+3️⃣ Exit
+Enter your choice: 1
+
+
+Enter passenger name: Harsh
+Available Stations: 
+1. New Delhi Junction
+2. Jaipur Station
+3. Darjeeling Railway Station
+4. Jammu Tawi Station
+
+Select source station: 1
+Available Stations: 
+1. New Delhi Junction
+2. Jaipur Station
+3. Darjeeling Railway Station
+4. Jammu Tawi Station
+
+Select destination station: 3
+Available Trains: 
+1. Darjeeling Limited
+2. Vande Bharat Express
+3. Royal Rajasthan On Wheels
+
+Select train: 1
+
+Enter date of journey (YYYY-MM-DD): 2025-06-05
+
+Enter seat number: 25
+
+Ticket booked successfully!
+
+Ticket Details: 
+Passenger Name: Harsh
+Train Name: Darjeeling Limited
+Seat Number: 25
+Source: New Delhi Junction
+Destination: Darjeeling Railway Station
+Date of Journey: 2025-06-05
